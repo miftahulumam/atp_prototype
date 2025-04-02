@@ -11,3 +11,5 @@ This code is developed and run on:
 * LattePanda Sigma
 * ADLINK Pocket AI GPU (NVIDIA RTX A500 GPU)
 * Python 3.10
+
+## Acknowledgement
