@@ -16,7 +16,7 @@ This code is developed and run on:
 
 
 ## Demonstration
-[![Implementation Demo](http://img.youtube.com/vi/Dx8EFrHQ14I/0.jpg)](https://youtu.be/Dx8EFrHQ14I "Acquisition, Tracking, and Pointing (ATP) Prototype for Optical Camera Communication")
+|:[![Implementation Demo](http://img.youtube.com/vi/Dx8EFrHQ14I/0.jpg)](https://youtu.be/Dx8EFrHQ14I "Acquisition, Tracking, and Pointing (ATP) Prototype for Optical Camera Communication - CLICK TO WATCH"):|
 
 ## Acknowledgement
 Thanks to [krishnayoga](https://github.com/krishnayoga) and [rangganast](https://github.com/rangganast) for contributing to this source code.
