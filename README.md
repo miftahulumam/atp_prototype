@@ -12,4 +12,11 @@ This code is developed and run on:
 * ADLINK Pocket AI GPU (NVIDIA RTX A500 GPU)
 * Python 3.10
 
+## Requirements
+
+
+## Demonstration
+[![Implementation Demo](http://img.youtube.com/vi/Dx8EFrHQ14I/0.jpg)](https://youtu.be/Dx8EFrHQ14I "Acquisition, Tracking, and Pointing (ATP) Prototype for Optical Camera Communication")
+
 ## Acknowledgement
+Thanks to [krishnayoga](https://github.com/krishnayoga) and [rangganast](https://github.com/rangganast) for contributing to this source code.
