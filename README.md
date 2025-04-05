@@ -13,7 +13,10 @@ This code is developed and run on:
 * Python 3.10
 
 ## Requirements
-
+Run the following syntax on your terminal in the source code directory:
+```
+pip install -r requirements.txt
+```
 
 ## Demonstration
 |[![Implementation Demo](http://img.youtube.com/vi/Dx8EFrHQ14I/0.jpg)](https://youtu.be/Dx8EFrHQ14I "CLICK TO WATCH: Acquisition, Tracking, and Pointing (ATP) Prototype for Optical Camera Communication")|
