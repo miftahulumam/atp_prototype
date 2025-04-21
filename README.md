@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Demonstration
 |[![Implementation Demo](http://img.youtube.com/vi/Dx8EFrHQ14I/0.jpg)](https://youtu.be/Dx8EFrHQ14I "CLICK TO WATCH: Acquisition, Tracking, and Pointing (ATP) Prototype for Optical Camera Communication")|
 |:--:|
-|Implementation Demo|
+|Video: Implementation Demo|
 
 ## Acknowledgement
 Thanks to [krishnayoga](https://github.com/krishnayoga) and [rangganast](https://github.com/rangganast) for contributing to this source code.
